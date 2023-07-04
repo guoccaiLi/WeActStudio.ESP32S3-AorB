@@ -5,7 +5,7 @@
 ## CN
 
 <div>
- S3-勘误表：https://www.espressif.com.cn/sites/default/files/documentation/esp32-s3_errata_cn.pdf   
+S3-勘误表：https://www.espressif.com.cn/sites/default/files/documentation/esp32-s3_errata_cn.pdf   
 </div>
 
 <div>
@@ -40,6 +40,11 @@ S3-Hardware Design Guidelines：https://www.espressif.com.cn/sites/default/files
 
 <div>
 ESP-IDF:HTTPS://GITHUB.COM/ESPRESSIF/ESP-IDF
+</div>
+
+<div>
+ESP32-C6 get-started:
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/get-started/
 </div>
 
 #### IF YOU HAVE ANY QUESTIONS, YOU CAN CONTACT WeAct Studio.
