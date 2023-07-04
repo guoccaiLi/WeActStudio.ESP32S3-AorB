@@ -22,9 +22,8 @@ S3-硬件设计指南：https://www.espressif.com.cn/sites/default/files/documen
 
 ## EN
 
-<div>
+<div>S3-Errata：https://www.espressif.com.cn/sites/default/files/documentation/esp32-s3_errata_en.pdf
 
-S3-Errata：https://www.espressif.com.cn/sites/default/files/documentation/esp32-s3_errata_en.pdf 
 </div>
 
 <div>
@@ -38,8 +37,6 @@ S3-Technical Reference Manual：https://www.espressif.com.cn/sites/default/files
 <div>
 S3-Hardware Design Guidelines：https://www.espressif.com.cn/sites/default/files/documentation/esp32-s3_hardware_design_guidelines_en.pdf
 </div>
-
-
 
 <div>
 ESP-IDF:HTTPS://GITHUB.COM/ESPRESSIF/ESP-IDF
